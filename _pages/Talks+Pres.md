@@ -6,24 +6,16 @@ author_profile: true
 ---
 
 {% include base_path %}
-**Merging uncertainty sets via majority vote**\\
-April 2024 - ASA PGH (American Statistical Association Pittsburgh), Pittsburgh, USA\\
-*Poster session* [(poster)](/files/poster_mj_vote.pdf)
+**Alignment of Spatial Transcriptomics data with the alignProMises R package**\\
+September 2023, European Bioconductor Conference, Ghent, Belgium\\
+*Poster session* [(poster)](/files/poster_EuroBioc.pdf)
 
-**Merging uncertainty sets via majority vote**\\
-April 2024 - ISSI (International Seminar on Selective Inference), online meeting\\
+**Procrustes Analysis for Spatial Transcriptomics data**\\
+August 2023, 44th ISCB Conference, Milan, Italy\\
 *Talk*
 
-**Merging uncertainty sets via majority vote**\\
-March 2024 - INRIA (Research group Missing Values & Causal Inference), online meeting\\
-*Talk*
-
-**Evaluating the influence of environmental factors on UA diseases through Mediation Analysis for a binary outcome**\\
-July 2023 - Prin Select Finals Workshop, Venice, Italy\\
-*Talk* [(website)](https://selectprin.github.io)
-
-**On the omission of continuous covariates in logistic regression**\\
-December 2022 - ICSDS Conference, Florence, Italy\\
+**Procrustes Analysis for high-dimensional data**\\
+June 2022, useR! Conference 2022 (online)\\
 *Poster session* [(poster)](/files/Poster.pdf)
 
 

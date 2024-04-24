@@ -16,7 +16,7 @@ August 2023, 44th ISCB Conference, Milan, Italy\\
 
 **Procrustes Analysis for high-dimensional data**\\
 June 2022, useR! Conference 2022 (online)\\
-*Poster session* [(poster)](/files/Poster.pdf)
+*Poster session* [(poster)](/files/poster_UseR.pdf)
 
 
 

@@ -11,7 +11,7 @@ I am a PhD student in Statistics at the [Department of Statistics](https://www.s
 
 I am passionate about using statistical methodology to solve real biological problems.
 
-Outside of Statistics, I love musicals and cats.
+Cats pictures are always appreciated.
 
 # Research interests
 - Statistical methods for single-cell and spatial transcriptomics data

@@ -8,7 +8,7 @@ author_profile: true
 {% include base_path %}
 **Conformal inference for cell type prediction leveraging the cell ontology**\\
 October 2024, Lorenzo Bernardi e la Statistica Sociale, Padova, Italy\\
-*Poster session* [(poster)](/files/poster_scConform.pdf)
+*Poster session* [(poster)](/files/Poster_scConform.pdf)
 
 **Conformal inference for cell type prediction leveraging the cell ontology**\\
 September 2024, European Bioconductor Conference, Oxford, United Kingdom\\

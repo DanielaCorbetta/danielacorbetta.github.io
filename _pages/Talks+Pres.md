@@ -7,12 +7,16 @@ author_profile: true
 
 {% include base_path %}
 **Conformal inference for cell type prediction leveraging the cell ontology**\\
+October 2024, Lorenzo Bernardi e la Statistica Sociale, Padova, Italy\\
+*Poster session* [(poster)](/files/poster_scConform.pdf)
+
+**Conformal inference for cell type prediction leveraging the cell ontology**\\
 September 2024, European Bioconductor Conference, Oxford, United Kingdom\\
-*Talk* 
+*Talk* [(slides)](/files/EuroBioc2024.pdf)
 
 **Conformal inference for cell type prediction leveraging the cell ontology**\\
 September 2024, Ascona Workshop: Spatial and temporal statistical modeling in molecular biology, Ascona, Switzerland\\
-*Talk* 
+*Talk* [(slides)](/files/Ascona2024.pdf)
 
 **Alignment of Spatial Transcriptomics data with the alignProMises R package**\\
 September 2023, European Bioconductor Conference, Ghent, Belgium\\
@@ -20,7 +24,7 @@ September 2023, European Bioconductor Conference, Ghent, Belgium\\
 
 **Procrustes Analysis for Spatial Transcriptomics data**\\
 August 2023, 44th ISCB Conference, Milan, Italy\\
-*Talk*
+*Talk* [(slides)](/files/ISCB_presentation.pdf)
 
 **Procrustes Analysis for high-dimensional data**\\
 June 2022, useR! Conference 2022 (online)\\
